@@ -1,0 +1,13 @@
+{
+  "name": "chooslr-ikc",
+  "version": "0.0.0",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "chin -c"
+  },
+  "devDependencies": {
+    "chin": "^3.1.1",
+    "chin-plugin-inkscape": "^0.0.7"
+  }
+}
